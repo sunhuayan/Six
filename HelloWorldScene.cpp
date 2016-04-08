@@ -1,5 +1,5 @@
 #include "HelloWorldScene.h"
-#include "AlertLayer.h"
+
 USING_NS_CC;
 
 Scene* HelloWorld::createScene()
