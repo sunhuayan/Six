@@ -1,5 +1,5 @@
 #include "HelloWorldScene.h"
-
+//11·32人都是公开举报你1
 USING_NS_CC;
 
 Scene* HelloWorld::createScene()
